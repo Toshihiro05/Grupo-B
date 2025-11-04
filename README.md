@@ -2,7 +2,13 @@
 Proyecto grupal — *Estructura de Datos (Plan 2025)*  
 
 ---
+## 🎯 Integrantes del Grupo B
+- **Gomez Varillas Millio Zahid**
+- **Cáceres Salcedo Juan Francisco** 
+- **Takagi Arana Kuraji Ryutaro**
+- **Tomailla Contreras Alexis Anyelo**
 
+---
 ## 📋 Descripción del poblema 
 El problema planteado es implementar un sistema de software que simule el funcionamiento de un sistema operativo básico en lo relativo a los procesos y la gestión de recursos. En este momento, la forma manual de gestionar los procesos que se encuentran en ejecución, la forma de planificar la utilización de la CPU y la forma de gestionar dicha memoria es muy ineficiente y propensa a errores en todos los posibles procesos manuales no integrados. El sistema debe ser capaz de gestionar un conjunto de procesos que tiene atributos como un id de proceso, nombre de proceso y prioridad. Estos procesos compiten por los recursos del sistema, los cuales son tiempo de CPU y espacio de memoria. Por lo tanto, la falta de un sistema que haga esto automáticamente, que organice estos procesos para que el recurso CPU sea asignado como prioridad, etc., representa el problema a resolver.
 
