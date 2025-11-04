@@ -33,21 +33,21 @@ Entorno: Dev-C++ 6.3 o Code::Blocks
 SO: Windows 10 o superior
 
 📁 Grupo-B/
-├── src/                 # Código fuente (.cpp)
-├── include/             # Archivos de cabecera (.h)
-├── docs/                # Documentación y reportes
-├── pruebas/             # Capturas de validación
-├── README.md            # Este archivo
-└── main.cpp             # Archivo principal del sistema
+src/                 # Código fuente (.cpp)
+include/             # Archivos de cabecera (.h)
+docs/                # Documentación y reportes
+pruebas/             # Capturas de validación
+README.md            # Este archivo
+main.cpp             # Archivo principal del sistema
 
 
 Integrantes del equipo
 
-| Integrante                         | Rol principal           | Aporte                                              |
-| -----------------------------------| ----------------------- | -----------------------------------------------------|
-| Gómez Varillas Mililio Zahid**     | Analista y modelador    | Diseño del análisis del problema y estructura general |
-| Cáceres Salcedo Juan Francisco**   | Desarrollador Backend   | Implementación de gestión de memoria                  |
-| Takagi Arana Kuraji Ryutaro**      | Desarrollador Principal | Módulo de planificación de CPU y control del sistema  |
-| Tomailla Contreras Alexis Anyelo** | Tester y documentador   | Manual de usuario y validaciones finales              |
+| Integrante                      | Rol principal            | Aporte                                               | 
+| --------------------------------| -----------------------  | -----------------------------------------------------|
+| Gómez Varillas Mililio Zahid    | Lider de proyecto        | Diseño del análisis del problema y estructura general|
+| Cáceres Salcedo Juan Francisco  | Desarrollador Backend    | Implementación de gestión de memoria                 |
+| Takagi Arana Kuraji Ryutaro     | Desarrollador de Memoria | Módulo de planificación de CPU y control del sistema |
+| Tomailla Contreras Alexis Anyelo| DEsarrollador de Interfaz| Manual de usuario y validaciones finales             |
 
 
