@@ -27,18 +27,19 @@ Principales funcionalidades
 
 
 Ejecución del programa
-- Requisitos
-Lenguaje: C++
-Entorno: Dev-C++ 6.3 o Code::Blocks
-SO: Windows 10 o superior
+Requisitos
+- Lenguaje: C++
+- Entorno: Dev-C++ 6.3 o Code::Blocks
+- SO: Windows 10 o superior
 
-📁 Grupo-B/
-src/                 # Código fuente (.cpp)
-include/             # Archivos de cabecera (.h)
-docs/                # Documentación y reportes
-pruebas/             # Capturas de validación
-README.md            # Este archivo
-main.cpp             # Archivo principal del sistema
+Grupo-B
+- src   # Código fuente (.cpp)
+- include     ----->  # Archivos de cabecera (.h)
+- docs        ----->  # Documentación y reportes
+- pruebas     ----->  # Capturas de validación
+- README.md   ----->  # Este archivo
+- main.cpp    ----->  # Archivo principal del sistema
+
 
 
 Integrantes del equipo
