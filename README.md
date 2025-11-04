@@ -3,6 +3,11 @@ Proyecto grupal — *Estructura de Datos (Plan 2025)*
 
 ---
 
+## 📋 Descripción del poblema 
+El problema planteado es implementar un sistema de software que simule el funcionamiento de un sistema operativo básico en lo relativo a los procesos y la gestión de recursos. En este momento, la forma manual de gestionar los procesos que se encuentran en ejecución, la forma de planificar la utilización de la CPU y la forma de gestionar dicha memoria es muy ineficiente y propensa a errores en todos los posibles procesos manuales no integrados. El sistema debe ser capaz de gestionar un conjunto de procesos que tiene atributos como un id de proceso, nombre de proceso y prioridad. Estos procesos compiten por los recursos del sistema, los cuales son tiempo de CPU y espacio de memoria. Por lo tanto, la falta de un sistema que haga esto automáticamente, que organice estos procesos para que el recurso CPU sea asignado como prioridad, etc., representa el problema a resolver.
+
+
+---
 ## 📋 Descripción del proyecto  
 Este sistema simula el funcionamiento básico de un **sistema operativo**, permitiendo la gestión de **procesos, memoria y planificación de CPU**.  
 El objetivo es comprender e implementar **estructuras de datos dinámicas** (listas, pilas y colas) desarrolladas desde cero en C++.
@@ -149,8 +154,7 @@ Archivo generado: sistema_guardado.txt
 |---------|------------|-------------|
 | Semana 1 | Análisis y requerimientos | Capítulo 1 del informe |
 | Semana 2 | Diseño de estructuras y algoritmos | Capítulo 2 |
-| Semana 3 | Codificación y pruebas | Capítulo 3 |
-| Semana 4 | Evidencias y control de versiones | Capítulo 4 |
+| Semana 3 | Codificación y pruebas | Capítulo 3 y  Evidencias y control de versiones | Capítulo 4 |
 
 ---
 
