@@ -113,8 +113,8 @@ Archivo generado: sistema_guardado.txt
 |-------------|------|--------|
 | **Gómez Varillas Mililio Zahid** | Líder de proyecto | Coordinación general y gestión de procesos |
 | **Cáceres Salcedo Juan Francisco** | Desarrollador backend | Planificación de CPU y estructuras de colas |
-| **Takagi Arana Kuraji Ryutaro** | Desarrollador principal | Gestión de memoria y control de sistema |
-| **Tomailla Contreras Alexis Anyelo** | Tester y documentador | Manual de usuario y validaciones finales |
+| **Takagi Arana Kuraji Ryutaro** | Desarrollador de Memoria | Gestión de memoria y control de sistema |
+| **Tomailla Contreras Alexis Anyelo** | Desarrollador de Interfaz | Manual de usuario y validaciones finales |
 
 ---
 
